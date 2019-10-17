@@ -11,4 +11,4 @@ How Will It Be Evaluated?
 > My grade should also be dependent on how descriptive my content is and if an adequare amount of examples are provided.
 
 Who Will Evaluate It?
-Jessie Roark will be evaluating my work throughout the semester. As a fellow editor, she understands the standards set to achieve the most successful work.
+> Jessie Roark will be evaluating my work throughout the semester. As a fellow editor, she understands the standards set to achieve the most successful work.
