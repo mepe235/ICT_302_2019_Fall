@@ -36,10 +36,11 @@
 
 ### introduction (15:17 to 15:19)
 
+- look at pages and posts
 - answer the same questions
   - what are the attributes?
   - what are the datatypes for these attributes?
-- look at pages and posts
+- also ask what attributes could be helpful
 - look at both the content type on the backend and the presentation on the frontend
   - where do you see differences?
   - are they differences in content model or in presentation?
