@@ -55,3 +55,5 @@
 - imagine that you're working with WordPress for a medium-sized online company that depends on its website
 
 - note that you can somewhat hack the content types on WordPress, through plugins like [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+
+## spend time discussing within groups (15:30 to 15:50)
