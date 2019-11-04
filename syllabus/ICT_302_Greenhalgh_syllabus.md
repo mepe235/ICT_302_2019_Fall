@@ -507,6 +507,8 @@ Using guidelines presented in class, identify and explore three different websit
 - **before class**, read the [Content Geography](https://flyingsquirrelbook.com/glossary/term/content-geography/) entry in the Flying Squirrel CMS Glossary
 - **before class**, read the [Category](https://flyingsquirrelbook.com/glossary/term/category/) entry in the Flying Squirrel CMS Glossary
 - attend lecture on content aggregation
+	- link to [ICT_302_Hugo](https://github.com/greenhas/ICT_302_Hugo) repository
+	- link to [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
 ### Tuesday, 5 November (Vote):
 - If you are eligible to vote in Kentucky, please make sure to participate in state elections today!
 
