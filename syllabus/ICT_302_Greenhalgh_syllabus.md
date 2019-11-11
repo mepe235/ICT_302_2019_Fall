@@ -530,6 +530,7 @@ Using guidelines presented in class, identify and explore three different websit
 - attend lecture on extending Content Management Systems
 ### Wednesday, 13 November (Explore):
 - explore WordPress plugins
+- explore WordPress API
 
 ### Friday, 15 November (Create):
 - continue work on *CMS Guidebook*
