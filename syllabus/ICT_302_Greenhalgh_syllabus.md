@@ -507,10 +507,13 @@ Using guidelines presented in class, identify and explore three different websit
 - **before class**, read the [Content Geography](https://flyingsquirrelbook.com/glossary/term/content-geography/) entry in the Flying Squirrel CMS Glossary
 - **before class**, read the [Category](https://flyingsquirrelbook.com/glossary/term/category/) entry in the Flying Squirrel CMS Glossary
 - attend lecture on content aggregation
+
 ### Tuesday, 5 November (Vote):
 - If you are eligible to vote in Kentucky, please make sure to participate in state elections today!
 
 ### Wednesday, 6 November (Explore):
+- link to [ICT_302_Hugo](https://github.com/greenhas/ICT_302_Hugo) repository
+- link to [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
 - explore categories, tags, menus in WordPress
 
 ### Friday, 8 November (Create):
@@ -527,10 +530,11 @@ Using guidelines presented in class, identify and explore three different websit
 - attend lecture on extending Content Management Systems
 ### Wednesday, 13 November (Explore):
 - explore WordPress plugins
-- find a plugin for producing a PDF version of the CMS Guidebook
+- explore WordPress API
+
 ### Friday, 15 November (Create):
 - continue work on *CMS Guidebook*
-- add PDF plugin to [class WordPress website](https://sised.is.uky.edu/ict302wp/)
+
 ### Sunday, 17 November (Submit):
 - submit Learning Journal entries
 
