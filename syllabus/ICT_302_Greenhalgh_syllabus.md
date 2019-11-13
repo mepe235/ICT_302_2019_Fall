@@ -436,8 +436,8 @@ Using guidelines presented in class, identify and explore three different websit
 	1. [WordPress Codex](https://codex.wordpress.org/Main_Page) and [WordPress Support](https://en.support.wordpress.com/)
 	2. [EasyWPGuide](https://easywpguide.com/) and [WPBeginner](https://www.wpbeginner.com/)
 	3. [WordPress Development StackExchange](https://wordpress.stackexchange.com/) and [WordPress subreddit](https://www.reddit.com/r/Wordpress/)
-	4. [Central KY WordPress Bloggers and Geeks](https://www.meetup.com/Central-KY-WordPress-Users/), [WordPress Louisville](https://www.meetup.com/WordPress-Meetup-Louisville/) and [Cincinnati WordPress Meetup](https://www.meetup.com/Cincinnati-WordPress-Meetup/) 
-		
+	4. [Central KY WordPress Bloggers and Geeks](https://www.meetup.com/Central-KY-WordPress-Users/), [WordPress Louisville](https://www.meetup.com/WordPress-Meetup-Louisville/) and [Cincinnati WordPress Meetup](https://www.meetup.com/Cincinnati-WordPress-Meetup/)
+
 - discuss as a class for each resource:
 	- what are these resources?
   	- how do the resources work?
@@ -529,8 +529,10 @@ Using guidelines presented in class, identify and explore three different websit
 ### Monday, 11 November (Learn):
 - attend lecture on extending Content Management Systems
 ### Wednesday, 13 November (Explore):
-- explore WordPress plugins
-- explore WordPress API
+- explore [WordPress API](https://codex.wordpress.org/WordPress_APIs)
+- explore [WordPress plugins (official directory)](https://wordpress.org/plugins/)
+- explore [WordPress plugins (unofficial directory)](http://wpplugindirectory.org/)
+
 
 ### Friday, 15 November (Create):
 - continue work on *CMS Guidebook*
