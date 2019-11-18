@@ -544,6 +544,7 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Monday, 18 November (Learn):
 - attend lecture on eCommerce with Content Management Systems
+	- look over [WooCommerce showcase](https://woocommerce.com/showcase/)
 ### Wednesday, 20 November (Explore):
 - explore eCommerce plugins for the [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 ### Friday, 22 November (Create):
