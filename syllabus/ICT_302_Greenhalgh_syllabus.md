@@ -16,9 +16,9 @@ This syllabus may be updated prior to and throughout the semester by Dr. Greenha
 
 ## Response Time
 
-From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Most of your assessments are due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
+From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I may be slower to respond on weekends and may not be able to get back to you until Monday. Most of your assessments will be due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
 
-## Office Hours
+# Office Hours
 
 In my office or on Zoom:
 
@@ -34,10 +34,10 @@ Any student who has difficulty affording or accessing food to eat every day or w
 (Thank you to [Dr. Sara Goldrick-Rab](http://saragoldrickrab.com/), whose [blog post](https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9) inspired my adoption of this statement.)
 
 ## Accommodations Due to Disability
-If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (DRC). The DRC coordinates campus disability services available to students with disabilities. Visit the [DRC website](http://www.uky.edu/DisabilityResourceCenter), [email the DRC](mailto:drc@uky.edu), contact them by phone at (859) 257-2754, or visit their office on the corner of Rose Street and Huguelet Drive in the Multidisciplinary Science Building, Suite 407.
+If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (DRC). The DRC coordinates campus disability services available to students with disabilities. Visit the [DRC website](http://www.uky.edu/DisabilityResourceCenter), [email the DRC](mailto:drc@uky.edu), contact them by phone at 859-257-2754, or visit their office on the corner of Rose Street and Huguelet Drive in the Multidisciplinary Science Building, Suite 407.
 
 ## Non-Discrimination Statement and Title IX Information
-UK is committed to providing a safe learning, living, and working environment for all members of the University community. The University maintains a comprehensive program which protects all members from discrimination, harassment, and sexual misconduct. For complete information about UK’s prohibition on discrimination and harassment on aspects such as race, color, ethnic origin, national origin, creed, religion, political belief, sex, and sexual orientation, please see [the electronic version of UK’s Administrative Regulation 6:1 (“Policy on Discrimination and Harassment”)](https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-1.pdf) . In accordance with Title IX of the Education Amendments of 1972, the University prohibits discrimination and harassment on the basis of sex in academics, employment, and all of its programs and activities. Sexual misconduct is a form of sexual harassment in which one act is severe enough to create a hostile environment based on sex and is prohibited between members of the University community and shall not be tolerated. For more details, please see [the electronic version of Administrative Regulations 6:2 (“Policy and Procedures for Addressing and Resolving Allegations of Sexual Assault, Stalking, Dating Violence, Domestic Violence, and Sexual Exploitation”)](https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-2_final_0682018_08-01-18_corrections.pdf). Complaints regarding violations of University policies on discrimination, harassment, and sexual misconduct are handled by the Office of Institutional Equity and Equal Opportunity (IEEO), which is located in 13 Main Building and can be reached by phone at (859) 257-8927. You can also visit [the IEEO’s website](https://www.uky.edu/eeo/).
+UK is committed to providing a safe learning, living, and working environment for all members of the University community. The University maintains a comprehensive program which protects all members from discrimination, harassment, and sexual misconduct. For complete information about UK’s prohibition on discrimination and harassment on aspects such as race, color, ethnic origin, national origin, creed, religion, political belief, sex, and sexual orientation, please see [the electronic version of UK’s Administrative Regulation 6:1 (“Policy on Discrimination and Harassment”)](https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-1.pdf) . In accordance with Title IX of the Education Amendments of 1972, the University prohibits discrimination and harassment on the basis of sex in academics, employment, and all of its programs and activities. Sexual misconduct is a form of sexual harassment in which one act is severe enough to create a hostile environment based on sex and is prohibited between members of the University community and shall not be tolerated. For more details, please see [the electronic version of Administrative Regulations 6:2 (“Policy and Procedures for Addressing and Resolving Allegations of Sexual Assault, Stalking, Dating Violence, Domestic Violence, and Sexual Exploitation”)](https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-2_final_0682018_08-01-18_corrections.pdf). Complaints regarding violations of University policies on discrimination, harassment, and sexual misconduct are handled by the Office of Institutional Equity and Equal Opportunity (IEEO), which is located in 13 Main Building and can be reached by phone at 859-257-8927. You can also visit [the IEEO’s website](https://www.uky.edu/eeo/).
 
 Faculty members are obligated to forward any report made by a student related to IEEO matters to the Office of Institutional Equity and Equal Opportunity. Students can confidentially report alleged incidences through the Violence Intervention and Prevention Center, Counseling Center, or University Health Services.
 
@@ -45,10 +45,10 @@ Faculty members are obligated to forward any report made by a student related to
 Bias Incident Support Services (BISS) provides confidential support and advocacy for any student, staff, or faculty member impacted by bias, hatred, and/or an act of identity-based violence.  BISS staff aid impacted parties in accessing campus and community resources, including the Bias Incident Response Team, the University’s official reporting system for acts that negatively impact a sense of belonging. Campus and community consultation and educational opportunities centered on inclusion, diversity, equity and belonging is a resource also provided by BISS. For more detailed information please visit the [BISS website](http://www.uky.edu/biss) or contact them [via email](mailto:biss@uky.edu).
 
 ## Counseling Center
-The UK Counseling Center (UKCC) provides a range of confidential psychological services to students enrolled in 6 credit hours or more, psychoeducational outreach programming (including QPR suicide prevention), and consultation to members of the UK community (students, faculty, staff, administrators, parents, concerned others).  Please visit [their website](https://www.uky.edu/counselingcenter/) for more detailed information, or call 859.257.8701.
+The UK Counseling Center (UKCC) provides a range of confidential psychological services to students enrolled in 6 credit hours or more, psychoeducational outreach programming (including QPR suicide prevention), and consultation to members of the UK community (students, faculty, staff, administrators, parents, concerned others).  Please visit [their website](https://www.uky.edu/counselingcenter/) for more detailed information, or call 859-257-8701.
 
 ## Martin Luther King Center
-The Martin Luther King Center (MLKC) supports an inclusive learning environment where diversity and individual differences are understood, respected, and appreciated as a source of strength. The MLKC’s year-round programs and activities that focus on the importance of cultural awareness and cross-cultural understanding support its three primary goals: 1) sponsoring cultural and educational programming; 2) offering opportunities for student support and development; and 3) through programmatic linkages with a wide variety of civic and community agencies, promoting community outreach, engagement, and collaboration.  Students can reach the MLKC via phone at (859) 257-4130, by visiting them in Gatton Student Center Suite A230, [via email](mailto:mlkc@uky.edu), and by visiting the [MLKC website](http://www.uky.edu/mlkc/).
+The Martin Luther King Center (MLKC) supports an inclusive learning environment where diversity and individual differences are understood, respected, and appreciated as a source of strength. The MLKC’s year-round programs and activities that focus on the importance of cultural awareness and cross-cultural understanding support its three primary goals: 1) sponsoring cultural and educational programming; 2) offering opportunities for student support and development; and 3) through programmatic linkages with a wide variety of civic and community agencies, promoting community outreach, engagement, and collaboration.  Students can reach the MLKC via phone at 859-257-4130, by visiting them in Gatton Student Center Suite A230, [via email](mailto:mlkc@uky.edu), and by visiting the [MLKC website](http://www.uky.edu/mlkc/).
 
 ## Office of LGBTQ* Resources
 UK is committed to supporting students and upholding the University’s efforts to promote inclusion among our community. UK faculty and staff employees support inclusion and diversity throughout the University, including the ways in which faculty structure classroom conversations and manage those dynamics. To assist in these efforts, students are welcome to provide the names and pronouns they prefer. One easy way to do this is by using the pronoun feature of UK’s Name Change Form. (More information about the form can be found on the [Office of LGBTQ*’s website](http://www.uky.edu/lgbtq/forms-and-resources).) Otherwise, students can provide this information to faculty members directly.
@@ -60,10 +60,10 @@ Being both a member of the military community and a student can bring some compl
 
 If you are a military student serving in the National Guard or Reserve it is in your best interest to let all of your professors know that immediately. You might also consider sharing a copy of your training schedule as well as any orders activating you. The Veterans Resource Center (VRC) can provide a letter for your professors validating your absence but be aware that there is no current UK policy protecting military students who miss class due to short term activations such as long weekend drills, annual training or emergency activations. See the instructor or the VRC for details.
 
-The VRC is a great resource for members of our military family. If you have questions regarding your VA benefits or other related issues, the VRC has a full complement of staff to assist you. The VRC also provides study and lounge space, as well as free printing. Please visit the [VRC website](mailto:http://www.uky.edu/veterans), [email the DRC](mailto:vetcenter@uky.edu), visit them in the basement of Erikson Hall, or call the director, Tony Dotson, at (859) 257-1148.
+The VRC is a great resource for members of our military family. If you have questions regarding your VA benefits or other related issues, the VRC has a full complement of staff to assist you. The VRC also provides study and lounge space, as well as free printing. Please visit the [VRC website](mailto:http://www.uky.edu/veterans), [email the DRC](mailto:vetcenter@uky.edu), visit them in the basement of Erikson Hall, or call the director, Tony Dotson, at 859-257-1148.
 
 ## Violence Intervention and Prevention (VIP) Center
-If you experience an incident of sex- or gender-based discrimination or interpersonal violence, we encourage you to report it. While you may talk to a faculty member or TA/RA/GA, understand that as a "Responsible Employee" of the University these individuals MUST report any acts of violence (including verbal bullying and sexual harassment) to the University's Title IX Coordinator in the IEEO Office. If you would like to speak with someone who may be able to afford you confidentiality, you can visit the [Violence Intervention and Prevention (VIP) Center’s website](https://www.uky.edu/vipcenter/content/faq) (offices located in Frazee Hall, lower level; email them; or call (859) 257-3574), [the Counseling Center’s (CC) website](http://www.uky.edu/counselingcenter/student-resources) (106 Frazee Hall; (859) ), and the [University Health Services (UHS) website](https://ukhealthcare.uky.edu/university-health-service/student-health/our-student-services); the VIP Center, CC, and UHS are confidential resources on campus. **The VIP Center accepts walk-in appointments**.
+If you experience an incident of sex- or gender-based discrimination or interpersonal violence, we encourage you to report it. While you may talk to a faculty member or TA/RA/GA, understand that as a "Responsible Employee" of the University these individuals MUST report any acts of violence (including verbal bullying and sexual harassment) to the University's Title IX Coordinator in the IEEO Office. If you would like to speak with someone who may be able to afford you confidentiality, you can visit the [Violence Intervention and Prevention (VIP) Center’s website](https://www.uky.edu/vipcenter/content/faq) (offices located in Frazee Hall, lower level; email them; or call 859-257-3574), [the Counseling Center’s (CC) website](http://www.uky.edu/counselingcenter/student-resources) (106 Frazee Hall; 859-257-8701 ), and the [University Health Services (UHS) website](https://ukhealthcare.uky.edu/university-health-service/student-health/our-student-services); the VIP Center, CC, and UHS are confidential resources on campus. **The VIP Center accepts walk-in appointments**.
 
 # Course Information
 
@@ -83,11 +83,11 @@ There are no formal prerequisites for this course.
 
 The following “I can” statements will serve as guiding objectives for this course and its assessments. By the end of the semester, you should feel comfortable making each statement about yourself and be able to back up that statement with your performance on course activities and assessments.
 
-- I can identify and define key concepts in (web) content management.
-- I can manage content using established workflows.
-- I can identify and employ technologies related to content management.
-- I can find and use resources for self-directed learning.
-- I can describe and compare content management systems.
+- **I can** identify and define key concepts in (web) content management.
+- **I can** describe and compare content management systems.
+- **I can** manage content using established workflows.
+- **I can** identify and employ technologies related to content management.
+- **I can** find and use resources for self-directed learning.
 
 ## Required Course Materials
 
@@ -95,7 +95,7 @@ You are not required to buy a textbook for this class; however, much of my lectu
 
 Over the course of the semester, you will be learning about a number of free resources that you can use to learn about content management systems.
 
-Furthermore, you will work together as a class to use what you learn from those resources (and other course activities) to write a content management systems guidebook that you can use as a reminder and reference after the semester has ended.
+Furthermore, you will work together as a class to use what you learn from those resources (and other course activities) to write a content management systems guidebook that you can use as a reference after the semester has ended.
 
 ## Course Policies
 
@@ -107,7 +107,9 @@ This course is highly collaborative and flexible, and the "master" syllabus for 
 
 #### Technology Requirements
 
-Minimum technical requirements for UK courses and suggested hardware, software, and internet connections are available at [ITS Student Hardware & Software Guidelines](http://www.uky.edu/its/student-hardware-software-guidelines).
+Minimum technical requirements for UK courses and suggested hardware, software, and internet connections
+
+ are available at [ITS Student Hardware & Software Guidelines](http://www.uky.edu/its/student-hardware-software-guidelines).
 
 This class is highly focused and dependent on a number of Web technologies, and you are expected to bring a laptop or tablet to class that will permit you to fully participate in class activities.
 
@@ -117,7 +119,7 @@ Having a laptop or tablet in class naturally creates opportunities for distracti
 
 #### Technical Support
 
-For account help, contact UK’s [Information Technology Customer Services](http://www.uky.edu/UKIT) online, by [email](mailto:218help@uky.edu), or by phone at 859-218-HELP (4357).
+For account help, contact UK’s [Information Technology Customer Services](http://www.uky.edu/UKIT) online, by [email](mailto:218help@uky.edu), or by phone at 859-218-4357.
 
 ### Excused Absences (Senate Rules 5.2.4.2)
 Senate Rules 5.2.4.2 defines the following as acceptable reasons for excused absences: (a) significant illness, (b) death of a family member, (c) trips for members of student organizations sponsored by an educational unit, trips for University classes, and trips for participation in intercollegiate athletic events, (d) major religious holidays, (e) interviews for graduate/professional school or full-time employment post-graduation, and (f) other circumstances found to fit “reasonable cause for nonattendance” by the instructor of record. Students should notify the professor of absences prior to class when possible.
@@ -247,7 +249,7 @@ Create your own repository in GitHub, set it to private, and add me (username: [
 
 #### Introductory Web Page (2 points; due 8 September 2019)
 
-Use GitHub Pages to create a simple web page that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that your GitHub Page will be public). Use at least two HTML elements and include at least two CSS stylings. Link to the page as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS stylings.
+Create a new, public GitHub repository. Add an HTML file in your GitHub repository that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that this page will be public). Use at least two HTML elements and include at least two CSS stylings. After creating the page, link to the file as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS stylings.
 
 #### Hugo Tinkering Report (2 points; due 29 September 2019)
 
@@ -267,22 +269,35 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Monday, 26 August (Learn)
 - attend lecture on ICT 302 course philosophy
+	- Who is Dr. Greenhalgh?
+	- What is Learning?
+	- Course Objectives
+	- Weekly Review
+	- Ask Me Anything!
 
 ### Wednesday, 28 August (Explore)
-- learn about [GitHub](https://github.com/)
+- what is [GitHub](https://github.com/)?
+- set up GitHub account
+- watch and star ICT 302 GitHub [ICT 302 repository](https://github.com/greenhas/ICT_302_2019_Fall)
 - set up [GitHub Desktop](https://desktop.github.com/)
-- learn about [Atom text editor](https://atom.io/)
+- set up personal repository
+	- go to [syllabus](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) and review *Learning Journal Setup* Proof of Concept
+- Canvas susbmission walkthrough
 - learn about markup languages
-- learn about [Markdown](https://daringfireball.net/projects/markdown/)
-- set up personal ICT 302 repository
-- introduce *Learning Journal Setup* Proof of Concept
+
 
 ### Friday, 30 August (Create):
 - **Last Day to Add**
-- review ICT 302 syllabus
-- clone ICT 302 syllabus in GitHub Desktop
-- use `issues` and `pull requests` to ask questions about or suggest changes to the ICT 302 syllabus
-
+- **before class**, set up [GitHub Desktop](https://desktop.github.com/)
+- **before class**, set up [Atom text editor](https://atom.io/)
+- **before class**, read the [Daring Fireball Markdown syntax guide](https://daringfireball.net/projects/markdown/syntax)
+- **before class**, read the [GitHub Markdown guide](https://guides.github.com/features/mastering-markdown/)
+- modify personal repository's README file with [Atom text editor](https://atom.io/)
+	- learn about [Markdown](https://daringfireball.net/projects/markdown/)
+- discuss `issues` and `pull requests`
+	- - look at [Data Science in Education Using R](https://github.com/data-edu/data-science-in-education) repository
+- discuss class syllabus and Markdown
+- review class syllabus with GitHub
 
 ### Sunday, 1 September (Submit):
 
@@ -291,19 +306,16 @@ Using guidelines presented in class, identify and explore three different websit
 
 ## Week 2: Content
 
-### Monday, 2 September (Learn):
+### Monday, 2 September:
 - **Academic Holiday: No Class**
-### Wednesday, 4 September (Explore):
-- **before class**, read the [Content](https://flyingsquirrelbook.com/glossary/term/content/) entry in the Flying Squirrel CMS Glossary.
-- **before class**, read the [Content (media)](https://en.wikipedia.org/wiki/Content_(media)) entry on Wikipedia.
+### Wednesday, 4 September (Learn/Explore):
 - attend lecture on content
-- learn about [GitHub Pages](https://pages.github.com/)
-- learn about HTML
-- learn about CSS
-- introduce *Introductory Web Page* Proof of Concept
 
 
 ### Friday, 6 September (Create):
+- introduce *Introductory Web Page* Proof of Concept
+- learn about HTML
+- learn about CSS
 - work on *Introductory Web Page* Proof of Concept
 
 ### Sunday, 8 September (Submit):
@@ -314,9 +326,12 @@ Using guidelines presented in class, identify and explore three different websit
 ## Week 3: Content Management
 
 ### Monday, 9 September (Learn):
+
+- **before class**, read the [Content](https://flyingsquirrelbook.com/glossary/term/content/) entry in the Flying Squirrel CMS Glossary
+- **before class**, read the [Content (media)](https://en.wikipedia.org/wiki/Content_(media)) entry on Wikipedia
 - **before class**, read the [Content Management](https://flyingsquirrelbook.com/glossary/term/content-management/) entry in the Flying Squirrel CMS Glossary.
 - **before class**, read the [Workflow](https://flyingsquirrelbook.com/glossary/term/workflow/) entry in the Flying Squirrel CMS Glossary.
-- attend lecture on content management
+- attend lecture on content and content management
 - attend lecture on teams and workflows
 - attend lecture on external integrators
 
@@ -324,10 +339,8 @@ Using guidelines presented in class, identify and explore three different websit
 - workflow-focused speed introductions
 - learn about [Slack](https://slack.com/)
 - join ICT 302 Slack workspace
-- learn about [Trello](https://trello.com)
-- join ICT 302 Trello board
-- learn about [Toggl](https://toggl.com)
-- join ICT 302 Toggl group
+- learn about [ClickUp](https://clickup.com)
+- join ICT 302 ClickUp space
 
 ### Friday, 13 September (Create):
 - **Last Day to Drop**
@@ -353,7 +366,7 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Wednesday, 18 September (Explore):
 - learn about [Hugo](https://gohugo.io/)
-- introduce *Hugo Report* Proof of Concept
+- introduce *Hugo Tinkering Report* Proof of Concept
 - join [ICT_302_Hugo](https://github.com/greenhas/ICT_302_Hugo) repository as a contributor
 - explore modifying content on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
 
@@ -370,9 +383,12 @@ Using guidelines presented in class, identify and explore three different websit
 ### Monday, 23 September (Learn):
 - **before class**, read the [Presentation](https://flyingsquirrelbook.com/glossary/term/presentation/) entry in the Flying Squirrel CMS Glossary
 - attend lecture on content vs. presentation
+	- compare [template](https://github.com/greenhas/ICT_302_Hugo/blob/master/themes/hugo-coder/layouts/posts/single.html) to [content](https://raw.githubusercontent.com/greenhas/ICT_302_Hugo/master/content/posts/2019-01-16-Currently-responding.md) to [post](https://unruffled-kepler-b32175.netlify.com/posts/2019-01-16-currently-responding/).
 
 ### Wednesday, 25 September (Explore):
 - explore modifying presentation on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
+	- explore [theme files](https://github.com/greenhas/ICT_302_Hugo/tree/master/themes/hugo-coder)
+	- explore [Hugo Theme directory](https://themes.gohugo.io/)
 
 ### Friday, 27 September (Create):
 - use [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to start laying out the **content** and **presentation** of the *CMS Guidebook*
@@ -390,10 +406,12 @@ Using guidelines presented in class, identify and explore three different websit
 - **before class**, read the [Introduction](https://easywpguide.com/wordpress-manual/introduction/) to the EasyWPGuide and visit the examples it links to
 - **before class**, watch the [How to Start a Blog in 2019 (Step by Step)](https://www.youtube.com/watch?time_continue=5&v=hCxIyl3vkLU) from [wpbeginner](https://www.wpbeginner.com)
 - attend lecture about WordPress
+	- look at WordPress use in the [2020 presidential election](https://en.wikipedia.org/wiki/2020_United_States_presidential_election)
 
 ### Wednesday, 2 October (Explore):
 - explore [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 - set up accounts on [class WordPress website](https://sised.is.uky.edu/ict302wp/)
+	- look over [user roles](https://en.support.wordpress.com/user-roles/) in a WordPress site
 - discuss account roles for [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 
 ### Friday, 4 October (Create):
@@ -414,8 +432,18 @@ Using guidelines presented in class, identify and explore three different websit
 - introduce *Content Management System Comparison* Proof of Concept
 
 ### Wednesday, 9 October (Explore):
-- attend presentation by local WordPress professional
-- learn about local WordPress resources
+- learn about (local) WordPress resources
+	1. [WordPress Codex](https://codex.wordpress.org/Main_Page) and [WordPress Support](https://en.support.wordpress.com/)
+	2. [EasyWPGuide](https://easywpguide.com/) and [WPBeginner](https://www.wpbeginner.com/)
+	3. [WordPress Development StackExchange](https://wordpress.stackexchange.com/) and [WordPress subreddit](https://www.reddit.com/r/Wordpress/)
+	4. [Central KY WordPress Bloggers and Geeks](https://www.meetup.com/Central-KY-WordPress-Users/), [WordPress Louisville](https://www.meetup.com/WordPress-Meetup-Louisville/) and [Cincinnati WordPress Meetup](https://www.meetup.com/Cincinnati-WordPress-Meetup/)
+
+- discuss as a class for each resource:
+	- what are these resources?
+  	- how do the resources work?
+	- what are the strengths and weaknesses of these resources?
+ 	- what might you use these resources for?
+ 	- (how) could you answer your question with these resources?
 
 ### Friday, 11 October (Create):
 - continue work on *CMS Guidebook*
@@ -429,6 +457,7 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Monday, 14 October (Learn):
 - attend lecture on other Content Management Systems
+	- fill out [collaborative Google Slides](https://docs.google.com/presentation/d/15MkSNgrF8QpvI15Bxt3J1iImq7VYWfwE-pprRz6x9FQ/edit#slide=id.g6345098561_0_54)
 
 ### Wednesday, 16 October (Explore):
 - explore other Content Management Systems
@@ -478,10 +507,13 @@ Using guidelines presented in class, identify and explore three different websit
 - **before class**, read the [Content Geography](https://flyingsquirrelbook.com/glossary/term/content-geography/) entry in the Flying Squirrel CMS Glossary
 - **before class**, read the [Category](https://flyingsquirrelbook.com/glossary/term/category/) entry in the Flying Squirrel CMS Glossary
 - attend lecture on content aggregation
+
 ### Tuesday, 5 November (Vote):
 - If you are eligible to vote in Kentucky, please make sure to participate in state elections today!
 
 ### Wednesday, 6 November (Explore):
+- link to [ICT_302_Hugo](https://github.com/greenhas/ICT_302_Hugo) repository
+- link to [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
 - explore categories, tags, menus in WordPress
 
 ### Friday, 8 November (Create):
@@ -497,11 +529,14 @@ Using guidelines presented in class, identify and explore three different websit
 ### Monday, 11 November (Learn):
 - attend lecture on extending Content Management Systems
 ### Wednesday, 13 November (Explore):
-- explore WordPress plugins
-- find a plugin for producing a PDF version of the CMS Guidebook
+- explore [WordPress API](https://codex.wordpress.org/WordPress_APIs)
+- explore [WordPress plugins (official directory)](https://wordpress.org/plugins/)
+- explore [WordPress plugins (unofficial directory)](http://wpplugindirectory.org/)
+
+
 ### Friday, 15 November (Create):
 - continue work on *CMS Guidebook*
-- add PDF plugin to [class WordPress website](https://sised.is.uky.edu/ict302wp/)
+
 ### Sunday, 17 November (Submit):
 - submit Learning Journal entries
 
@@ -509,6 +544,7 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Monday, 18 November (Learn):
 - attend lecture on eCommerce with Content Management Systems
+	- look over [WooCommerce showcase](https://woocommerce.com/showcase/)
 ### Wednesday, 20 November (Explore):
 - explore eCommerce plugins for the [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 ### Friday, 22 November (Create):

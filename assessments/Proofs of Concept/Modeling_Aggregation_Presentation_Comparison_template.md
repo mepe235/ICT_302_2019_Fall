@@ -5,8 +5,8 @@
 
 # Similarities
 
-> Use this section to describe what the three websites you have chosen have in common. Refer back to specific concepts from class to strengthen your comparison.
+> Use this section to describe what the three websites you have chosen have in common in terms of content modeling, content aggregation, and content presentation. Refer back to specific concepts from class to strengthen your comparison.
 
 # Differences
 
-> Use this section to describe how the three websites you have chosen are different from each other. Refer back to specific concepts from class to strengthen your comparison.
+> Use this section to describe how the three websites you have chosen are different from each other in terms of content modeling, content aggregation, and content presentation. Refer back to specific concepts from class to strengthen your comparison.
