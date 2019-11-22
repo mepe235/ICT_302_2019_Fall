@@ -221,7 +221,7 @@ By the midpoint of the semester, you and your classmates should have had enough 
 
 #### Revised Written Agreement (2 points, due 1 December 2019)
 
-Expectations change over the course of the semester, so you will have a chance to revisit your written agreement to ensure that it accurately reflects your commitments to the course. You will make a pull request for your Written Agreement in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) folder of my class repository that 1) makes appropriate changes to your written agreement (or specifies that you are not making any changes) and 2) adds a justification for those changes to the bottom of your agreement. You will then link to your file as a Canvas submission. You will earn 1 point for making changes (or making it clear that you aren't making changes) and another point for providing an adequate justification for those changes.
+Expectations change over the course of the semester, so you will have a chance to revisit your written agreement to ensure that it accurately reflects your commitments to the course. You will create a new version of your written agreement that 1) makes appropriate changes (or specifies that you are not making any changes) and 2) adds a justification for those changes to the bottom of your agreement. You will then link to your file as a Canvas submission. You will earn 1 point for making changes (or making it clear that you aren't making changes) and another point for providing an adequate justification for those changes.
 
 #### Colleague Evaluation (8 points; due 15 December 2019)
 
